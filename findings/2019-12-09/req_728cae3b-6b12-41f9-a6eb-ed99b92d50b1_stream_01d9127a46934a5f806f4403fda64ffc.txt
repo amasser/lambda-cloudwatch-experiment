@@ -1,0 +1,9 @@
+START RequestId: 7f49b4bb-b9d7-4462-acf8-c3a5d9eb1b22 Version: $LATEST\n
+{"reqID":"7f49b4bb-b9d7-4462-acf8-c3a5d9eb1b22","message":"begin"}\n
+{"reqID":"7f49b4bb-b9d7-4462-acf8-c3a5d9eb1b22","message":"end"}\n
+END RequestId: 7f49b4bb-b9d7-4462-acf8-c3a5d9eb1b22\n
+REPORT RequestId: 7f49b4bb-b9d7-4462-acf8-c3a5d9eb1b22\tDuration: 497.32 ms\tBilled Duration: 500 ms\tMemory Size: 128 MB\tMax Memory Used: 42 MB\tInit Duration: 69.98 ms\t\n
+START RequestId: 728cae3b-6b12-41f9-a6eb-ed99b92d50b1 Version: $LATEST\n
+{"reqID":"728cae3b-6b12-41f9-a6eb-ed99b92d50b1","message":"begin"}\n
+END RequestId: 728cae3b-6b12-41f9-a6eb-ed99b92d50b1\n
+REPORT RequestId: 728cae3b-6b12-41f9-a6eb-ed99b92d50b1\tDuration: 168.68 ms\tBilled Duration: 200 ms\tMemory Size: 128 MB\tMax Memory Used: 42 MB\t\n

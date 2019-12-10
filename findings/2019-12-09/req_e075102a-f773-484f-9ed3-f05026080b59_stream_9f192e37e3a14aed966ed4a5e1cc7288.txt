@@ -1,0 +1,19 @@
+START RequestId: 21f277a6-44a1-4300-9511-f18246bcdfb5 Version: $LATEST\n
+{"reqID":"21f277a6-44a1-4300-9511-f18246bcdfb5","message":"begin"}\n
+{"reqID":"21f277a6-44a1-4300-9511-f18246bcdfb5","message":"end"}\n
+END RequestId: 21f277a6-44a1-4300-9511-f18246bcdfb5\n
+REPORT RequestId: 21f277a6-44a1-4300-9511-f18246bcdfb5\tDuration: 553.49 ms\tBilled Duration: 600 ms\tMemory Size: 128 MB\tMax Memory Used: 41 MB\tInit Duration: 67.90 ms\t\n
+START RequestId: 257f9dd0-f05d-4964-9794-e9790fe8f617 Version: $LATEST\n
+{"reqID":"257f9dd0-f05d-4964-9794-e9790fe8f617","message":"begin"}\n
+{"reqID":"257f9dd0-f05d-4964-9794-e9790fe8f617","message":"end"}\n
+END RequestId: 257f9dd0-f05d-4964-9794-e9790fe8f617\n
+REPORT RequestId: 257f9dd0-f05d-4964-9794-e9790fe8f617\tDuration: 288.82 ms\tBilled Duration: 300 ms\tMemory Size: 128 MB\tMax Memory Used: 41 MB\t\n
+START RequestId: 3fcbe9cb-0929-45c7-879e-cd9b40091638 Version: $LATEST\n
+{"reqID":"3fcbe9cb-0929-45c7-879e-cd9b40091638","message":"begin"}\n
+{"reqID":"3fcbe9cb-0929-45c7-879e-cd9b40091638","message":"end"}\n
+END RequestId: 3fcbe9cb-0929-45c7-879e-cd9b40091638\n
+REPORT RequestId: 3fcbe9cb-0929-45c7-879e-cd9b40091638\tDuration: 267.91 ms\tBilled Duration: 300 ms\tMemory Size: 128 MB\tMax Memory Used: 41 MB\t\n
+START RequestId: e075102a-f773-484f-9ed3-f05026080b59 Version: $LATEST\n
+{"reqID":"e075102a-f773-484f-9ed3-f05026080b59","message":"begin"}\n
+END RequestId: e075102a-f773-484f-9ed3-f05026080b59\n
+REPORT RequestId: e075102a-f773-484f-9ed3-f05026080b59\tDuration: 427.69 ms\tBilled Duration: 500 ms\tMemory Size: 128 MB\tMax Memory Used: 41 MB\t\n
