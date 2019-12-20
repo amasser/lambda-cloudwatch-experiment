@@ -29,6 +29,7 @@ We offer the following data as proof:
     - Complete CloudWatch streams for bad occurrences:
     	- [Request b2bc175f-71fd-4b2c-b473-c046ff8047aa steam 76d4930b335b4810b717fef20aab7de2](findings/2019-12-20/stream_76d4930b335b4810b717fef20aab7de2.txt)
     	- [Request 6648cefc-c975-46de-8215-57dae9bc6d46 steam d88f6e8b3dcf487a92ebdc3fa54c87f3](findings/2019-12-20/stream_d88f6e8b3dcf487a92ebdc3fa54c87f3.txt)
+    - [Complete CloudWatch log group](findings/2019-12-20/complete-logs-2019-12-20.json)
 
 ## How to reproduce the experiment
 
