@@ -1,0 +1,4 @@
+go run analyze-logs/analyze-logs.go
+total 600, missing 2
+b2bc175f-71fd-4b2c-b473-c046ff8047aa
+6648cefc-c975-46de-8215-57dae9bc6d46
